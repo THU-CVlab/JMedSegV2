@@ -178,4 +178,4 @@ Please refer `train.sh`, `batch_test.sh`, `pretrain.sh`
 
 ## Run via GUI
 
-<img src='img/UI.png' width=500>
+<img src='img/ui.png' width=500>
