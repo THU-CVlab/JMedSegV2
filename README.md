@@ -93,7 +93,7 @@ including:
 
 3. Download some of the [ImageNet pre-trained weights](https://cloud.tsinghua.edu.cn/f/f299d34ed5fb4022a88c/?dl=1) necessary for the model and unzip them into the `model/` directory.
 
-4. If you want to use the trained model parameters, you can download the trained model parameters on the pancreas data [here](https://cloud.tsinghua.edu.cn/d/e04275bb8248461a8898/), or you can download the [visualization results](https://cloud.tsinghua. edu.cn/d/71b56f28905149a5a610/) to observe the model results first.
+4. If you want to use the trained model parameters, you can download the trained model parameters on the pancreas data [here](https://cloud.tsinghua.edu.cn/de04275bb8248461a8898/), or you can download the [visualization results](https://cloud.tsinghua.edu.cn/d/71b56f28905149a5a610/) to observe the model results first.
 
 5. Run training/testing/visualization
 
