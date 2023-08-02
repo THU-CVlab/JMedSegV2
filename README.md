@@ -1,6 +1,12 @@
 # The deep learning models for segmenting cancellous bone of lumbar vertebrae in CT image.
 
-This framework contains lots of  neural networks for image segmentation, which based on [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/). For convience to  medical specilists, we provide UI(base on PyQt).
+We have coded most of the published segmentation models, to the best of our knowledge, in Jittor deep learning platform. The models have been trained with labeled cancellous bone of lumbar vertebrae, particularly, L1 and L2.  All the models are pre-trained with the SAS self-supervised learning framework, then the pre-trained models are transferred to cancellous bone segmentation by our labeled Cancellous Bone of L1 and L2 datasets.
+
+The interface, JMedSeg, is developed to integrate all the segmentation models for using the trained models conveniently, or further transferring the models.
+
+Acknowledgement: This JMedSegV2 is developed based on the JMedSeg (GitHub - THU-CVlab/JMedSeg: Jittor Medical Segmentation Lib by Computer Vision Group of TSinghua University), which is developed by the students of the courses “Pattern Recognition 2021 and 2022”, Department of Computer Science and Technology, Tsinghua University. We deeply thank all the students for their contribution to the development of the segmentation models.
+
+<!-- This framework contains lots of  neural networks for image segmentation, which based on [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/). For convience to  medical specilists, we provide UI(base on PyQt). -->
 
 ## Model Lists
 Image segmentation models this framework contains are listed bellow:
