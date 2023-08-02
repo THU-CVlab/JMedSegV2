@@ -97,9 +97,9 @@ After downloading the data from [Tsinghua Cloud Drive](https://cloud.tsinghua.ed
 
 2. Download Datasets
 
-3. Download some of the [ pre-trained weights](https://cloud.tsinghua.edu.cn/f/f299d34ed5fb4022a88c/?dl=1) necessary for the model and unzip them into the `model/` directory.
+3. Download some of the [ pre-trained weights](https://cloud.tsinghua.edu.cn/d/ffb0ce0f42f842d9bb7d/) necessary for the model and unzip them into the `model/` directory.
 
-4. If you want to use the trained model parameters, you can download the trained model parameters on the pancreas data [here](https://cloud.tsinghua.edu.cn/d/ffb0ce0f42f842d9bb7d/), or you can download the [visualization results](https://cloud.tsinghua.edu.cn/f/328f2fc3d4f84fa187e4/?dl=1) to observe the model results first.
+4. If you want to use the trained model parameters, you can download the trained model parameters on the pancreas data [here](https://cloud.tsinghua.edu.cn/f/8df32750a64243b2b637/?dl=1), or you can download the [visualization results](https://cloud.tsinghua.edu.cn/f/328f2fc3d4f84fa187e4/?dl=1) to observe the model results first.
 
 5. Run training/testing/visualization
 
