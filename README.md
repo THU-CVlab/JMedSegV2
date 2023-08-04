@@ -184,7 +184,8 @@ Please refer `train.sh`, `batch_test.sh`, `pretrain.sh`
 
 
 ## Run via GUI
-Run 'gui.py',then you can operate by GUI
+Run 'gui.py',then you can operate by GUI.
+
 <img src='img/ui.png' width=500>
 
 You can click 'Load' button to load the CT images you want to seg, then choose your train model.
