@@ -185,3 +185,11 @@ Please refer `train.sh`, `batch_test.sh`, `pretrain.sh`
 ## Run via GUI
 
 <img src='img/ui.png' width=500>
+
+## Acknowledgement
+
+This JMedSegV2 is developed based on the JMedSeg (GitHub - THU-CVlab/JMedSeg: Jittor Medical Segmentation Lib by Computer Vision Group of TSinghua University), which is developed by the students of the courses “Pattern Recognition 2021 and 2022”, Department of Computer Science and Technology, Tsinghua University. We deeply thank all the students for their contribution to the development of the segmentation models. We thank Mr. Zhoujie Fu, the student of Department of Computer Science and Technology, Tsinghua University, for his contribution to the development of the interface of deep learning based segmentation, and part of the models as well.
+
+
+
+
