@@ -4,7 +4,6 @@ We have coded most of the published segmentation models, to the best of our know
 
 The interface, JMedSeg, is developed to integrate all the segmentation models for using the trained models conveniently, or further transferring the models.
 
-Acknowledgement: This JMedSegV2 is developed based on the JMedSeg (GitHub - THU-CVlab/JMedSeg: Jittor Medical Segmentation Lib by Computer Vision Group of TSinghua University), which is developed by the students of the courses “Pattern Recognition 2021 and 2022”, Department of Computer Science and Technology, Tsinghua University. We deeply thank all the students for their contribution to the development of the segmentation models.
 
 <!-- This framework contains lots of  neural networks for image segmentation, which based on [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/). For convience to  medical specilists, we provide UI(base on PyQt). -->
 
