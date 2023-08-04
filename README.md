@@ -11,6 +11,7 @@ Acknowledgement: This JMedSegV2 is developed based on the JMedSeg (GitHub - THU-
 ## Model Lists
 Image segmentation models this framework contains are listed bellow:
 - UNet
+- UNeXt
 - SegNet
 - DeepLab V2
 - DANet
@@ -183,8 +184,18 @@ Please refer `train.sh`, `batch_test.sh`, `pretrain.sh`
 
 
 ## Run via GUI
-
+Run 'gui.py',then you can operate by GUI
 <img src='img/ui.png' width=500>
+
+You can click 'Load' button to load the CT images you want to seg, then choose your train model.
+
+<img src='img/ChooseATrainModel.png' width=500>
+
+Click 'More' to continue, it will pop up:
+
+<img src='img/more.png' width=500 >
+
+If your CT image is not labeled , you can click 'LABEL' button, it will call up the annotation tool [__labelme__](https://jameslahm.github.io/labelme/) to aid your annotation. Press '__Train__' button to train your choosed model.
 
 ## Acknowledgement
 
